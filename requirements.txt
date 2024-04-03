@@ -1,0 +1,6 @@
+Flask
+requests
+tensorflow
+matplotlib
+numpy
+Gunicorn
